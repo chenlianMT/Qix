@@ -1,5 +1,7 @@
 ## 机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)
 
+* [CIKM 2017 Full Papers](http://cikm2017.org/acceptedpapers_long.html)
+
 * [《Brief History of Machine Learning》](http://www.erogol.com/brief-history-machine-learning/)
 
 介绍:这是一篇介绍机器学习历史的文章，介绍很全面，从感知机、神经网络、决策树、SVM、Adaboost到随机森林、Deep Learning.
